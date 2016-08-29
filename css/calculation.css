@@ -2,7 +2,7 @@ body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div{margin:0;paddin
 ul,ol{list-style-type:none;} 
 ul li{ display:inline-block;}
 
-.header{width:1000px;
+.header{width:1300px;
         height:40px;
 		background:#fff;
 		margin:0 auto;
@@ -24,14 +24,23 @@ ul li{ display:inline-block;}
 
 .empty{width:100%;
 	   border:1px solid #0eaf63;} 
-.main{width:100%;
-      height:1000px;
+.main{width:1300px;
+      height:650px;
 	  background:url('../images/ziye-3-bg.jpg') no-repeat;
 	  background-position:center;
-	  margin-top:-174px;}
+	  margin-top:-174px;
+	  position:relative;
+	  margin:0 auto;}
+.price{width:800px;
+       height:350px;
+	   background:pink;
+	   position:absolute;
+	   left:200px;
+	   top:180px;}
+	  
 .banner{position:absolute;
-        left:140px;
-		top:180px;
+     
+		
         width:400px;
 		height:350px;
         background:#fff;
@@ -56,9 +65,8 @@ ul li{ display:inline-block;}
 	 font-size:10px;}
 .start{margin:100px 0 0 -100px;}	
 .banner-1{position:absolute;
-        left:540px;
-		top:180px;
-        width:400px;
+        left:400px;
+	    width:400px;
 		height:350px;
         background:#fff;}
 .banner-1 h3{margin:-220px 0 0 140px;}
