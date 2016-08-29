@@ -5,7 +5,7 @@ a{text-decoration:none;}
 column, ul li,input,img,search,h1{vertical-align:middle;} 
 header,regsiter{color:#999;}
 
-.header{width:100%;
+.header{width:1300px;
         height:78px;
 		background:url:('../images/bg-1.jpg');
 		margin:0 auto;
@@ -110,7 +110,7 @@ header,regsiter{color:#999;}
                  background:#0c7747;}
 				 
 .nav ul li {font-size:16px;
-        font-family:"ËÎÌå";
+        font-family:"Ã‹ÃŽÃŒÃ¥";
 	    margin-top:10px;
 	   }
 .nav ul li ul li a{color:#000;}
